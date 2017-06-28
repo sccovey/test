@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="ID-rogn3y" xml:lang="en-us">
+  <title>Test topic</title>
+  <conbody>
+    <section>
+      <title>section title</title>
+      <ol>
+        <li>
+          <p>a numbered list</p>
+        </li>
+        <li>
+          <p>some text</p>
+        </li>
+        <li>
+          <p><b>bold text</b></p>
+        </li>
+      </ol>
+    </section>
+  </conbody>
+</concept>

@@ -12,9 +12,7 @@
         <li>
           <p>some text</p>
         </li>
-        <li>
-          <p><b>bold text</b></p>
-        </li>
+        <li>change one<p><b>bold text</b></p></li>
       </ol>
     </section>
   </conbody>

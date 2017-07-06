@@ -12,7 +12,8 @@
         <li>
           <p>some text</p>
         </li>
-        <li>change one<p><b>bold text</b></p></li>
+        <li>change one<image href="test/f2bfu57e506z.jpg" id="image_fwc_fzt_l1b"/><p><b>bold
+              text</b></p></li>
       </ol>
     </section>
   </conbody>

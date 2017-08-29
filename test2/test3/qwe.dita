@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="ID-rogn3y" xml:lang="en-us">
+  <title>Test topicx</title>
+  <conbody>
+    <section>
+      <title>section title</title>
+      <ol>
+        <li>
+          <p>a numbered list</p>
+        </li>
+        <li>
+          <p>some text</p>
+        </li>
+        <li>change one<image id="image_fwc_fzt_l1b" href="test/f2bfu57e506z.jpg"/><p><b>bold
+              text</b></p></li>
+      </ol>
+    </section>
+  </conbody>
+</concept>

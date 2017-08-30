@@ -5,8 +5,8 @@
   <conbody>
     <section>
       <title>section title</title>
-      <p>a new paragraph</p>
-      <p>a new paragraph 2</p>
+      <p id="mr4ntaclwgi">a new paragraph</p>
+      <p id="juopzt47uh">a new paragraph 2</p>
       <ol>
         <li>
           <p>a numbered list</p>
